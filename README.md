@@ -1,3 +1,6 @@
+## Management system
+React로 만들어진 고객관리시스템이다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
